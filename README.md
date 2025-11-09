@@ -1,13 +1,3 @@
----
-marp: true
-paginate: true
-transition: cube
-style: |
-  section::after {
-    content: attr(data-marpit-pagination) '/' attr(data-marpit-pagination-total);
-  }
----
-
 # Addressing [the Yan report](https://zenodo.org/record/4028830#.X1_bxGhKg2y)
 
 In September 2020, the above claimed to **be** scientific evidence for SARS-CoV-2 being an engineered bioweapon :fearful: Zenodo granting it a Digital Object Identifier (DOI) made the report appear credible, despite a lack of peer review.
