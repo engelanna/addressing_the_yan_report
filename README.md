@@ -12,7 +12,7 @@ In September 2020, the above claimed to **be** scientific evidence for SARS-CoV-
 
 ## <!-- fit --> Restriction enzymes around the spike's receptor binding motif
 
-Mikolaj Raszek, PhD, was kind enough to elucidate, in [_SARS-CoV-2 coronavirus origins alternative theories – do they hold up against science?_](https://merogenomics.ca/blog/en/117/SARS-CoV-2_coronavirus_origins_alternative_theories__do_they_hold_up_against_science_Part_2), the core claim of the Yan report.
+Mikolaj Raszek, PhD, was kind enough to elucidate, in [_SARS-CoV-2 coronavirus origins alternative theories – do they hold up against science?_]([https://merogenomics.ca/blog/en/117/SARS-CoV-2_coronavirus_origins_alternative_theories__do_they_hold_up_against_science_Part_2](https://archive.ph/sArNd)), the core claim of the Yan report.
 
 Two **restriction enzymes** (sequences bacteria use to slash viruses to bits, repurposed by humans to glue parts of different genomes together): [EcoRI](https://www.neb.com/products/r0101-ecori#Product%20Information) and [BstEII](https://www.neb.com/products/r0162-bsteii#Product%20Information). According to Yan et al, the sequence between them allowed to target mammals larger than :bat::bat:.
 
