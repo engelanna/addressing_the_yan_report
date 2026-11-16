@@ -4,8 +4,8 @@
 
 In September 2020, the above claimed to **be** scientific evidence for SARS-CoV-2 being an engineered bioweapon :fearful: Zenodo granting it a Digital Object Identifier (DOI) made the report appear credible, despite a lack of peer review.
 
-<br>The Johns Hopkins University published [In Response: Yan et al Preprint
-Examinations of the Origin of SARS-CoV-2](https://centerforhealthsecurity.org/sites/default/files/2023-02/200921-in-response-yan.pdf) the same month, explaining why the report was unconvincing. But conspiratorial audiences :raised_eyebrow::raised_eyebrow: value neither authority, nor being pointed to tonnes of reading material (can't blame them for the latter :smile:).
+<br>Within a month, the Johns Hopkins University published [In Response: Yan et al Preprint
+Examinations of the Origin of SARS-CoV-2](https://centerforhealthsecurity.org/sites/default/files/2023-02/200921-in-response-yan.pdf), explaining why the report was unconvincing. But conspiratorial audiences :raised_eyebrow::raised_eyebrow: value neither authority, nor being pointed to tonnes of reading material (can't blame them for the latter :smile:).
 
 <br>They do value critical thinking, which only requires that __the core claim__ be verified. Should it prove false, everything else can be dropped :woman_shrugging: What was the report's postulate, then, that sufficed for its authors to be able to seek asylum in :us:?
 
