@@ -44,7 +44,7 @@ In [the accession page](https://www.ncbi.nlm.nih.gov/nuccore/MN908947.1), switch
 
 ## Are EcoRI and BstEII _actually there_? :mag::eyes:
 
-- **Note:** Sequences identical to those listed **needn't** necessarily come from restriction enzymes - but let's simplify and humour that notion :ok_hand::woman:
+- **Note:** Sequences identical to GAATCC (EcoRI) / GGTTACC (BstEII) **needn't** necessarily come from restriction enzymes - but it is the most parsimonious :ok_hand::woman: (c.f. Occam's Razor)
 
 <br>You can open the downloaded SARS-CoV-2 genome in a text editor :clipboard:, and search (`Ctrl+f` / `Cmd+f`) for the occurrences of the [EcoRI](https://www.neb.com/products/r0101-ecori#Product%20Information) sequence __GAATTC__ yourself. If you fancy a dopamine rush, __stop reading and go ahead now__ :grin:
 
